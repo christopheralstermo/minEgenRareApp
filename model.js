@@ -55,8 +55,8 @@ model = {
                 name: "Chris",
                 fylke: 'Vestfold',
                 login: false,
-                message: ["hei på deg", "hva skjer", "dette er artig"],
-                messageSender: ["Roar", "Kåre", "Roar"],
+                message: ["hei på deg", "hva skjer"],
+                messageSender: ["Roar", "Kåre"],
 
             },
             {
