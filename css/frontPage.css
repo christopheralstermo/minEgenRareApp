@@ -1,0 +1,19 @@
+.fylkeRuter {
+    display: flex;
+    border: solid;
+    width: 100px;
+}
+
+.fylkeRuter:nth-child(even){
+    background: rgb(205, 235, 233);
+}
+
+#brukerId {
+    border: solid;
+    margin: 10px
+}
+#theLabel {
+    border: solid;
+    margin: 0px 0px 10px 30px;
+    padding: 5px;
+}
